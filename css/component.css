@@ -52,3 +52,14 @@
         line-height: 10px;
     }
 }
+
+.img-match-container {
+	display: flex;
+	align-items: center;
+	height: 360px;
+	background-color: #fff;
+}
+
+.img-match {
+	width: 100%;
+}
